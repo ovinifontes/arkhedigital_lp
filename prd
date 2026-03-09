@@ -1,0 +1,459 @@
+# PRD — Landing Page ArkheDigital
+
+## 1. Visão Geral do Projeto
+
+**Nome do projeto:** Landing Page ArkheDigital
+
+**Objetivo principal:**  
+Criar uma landing page institucional e comercial para a ArkheDigital, com foco em apresentar a empresa, destacar os Agentes de IA como produto principal de entrada, mostrar outros serviços digitais oferecidos e converter visitantes em conversas no WhatsApp.
+
+**Objetivo de negócio:**  
+Gerar leads qualificados e iniciar conversas comerciais com potenciais clientes, principalmente negócios locais, usando uma página com posicionamento claro, visual moderno, autoridade e CTA forte para WhatsApp.
+
+**Conversão principal desejada:**  
+Clique no botão de WhatsApp para iniciar conversa com o agente da ArkheDigital.
+
+**CTA principal:**  
+“Falar no WhatsApp”
+
+**Link do WhatsApp:**  
+`https://wa.me/5565992413557?text=Oi%2C+quero+entender+como+a+ArkheDigital+pode+me+ajudar.`
+
+**Público-alvo:**  
+Negócios locais e pequenas empresas que querem:
+- vender mais
+- atender melhor
+- organizar o comercial
+- responder clientes mais rápido
+- automatizar processos
+- melhorar sua estrutura digital
+
+Exemplos:
+- barbearias
+- salões de beleza
+- lojas
+- clínicas
+- profissionais liberais
+- empresas locais em geral
+
+---
+
+## 2. Stack Tecnológica Obrigatória
+
+- **Frontend:** React
+- **Estilização:** Tailwind CSS
+- **Ícones:** Lucide React
+- **Animações:** Framer Motion
+- **Diretriz:** Construir componentes modulares e reutilizáveis
+- **Responsividade:** Mobile-first
+- **Performance:** Página rápida, clean e leve
+- **SEO básico:** título, descrição e estrutura semântica
+
+---
+
+## 3. Direção Visual e Branding
+
+### Estilo visual desejado
+A landing page deve ter uma estética:
+- moderna
+- premium
+- tecnológica
+- limpa
+- profissional
+- confiável
+- estratégica
+- minimalista, mas forte
+
+Evitar:
+- excesso de elementos visuais
+- aparência genérica de template
+- estética infantil
+- excesso de gradientes exagerados
+- poluição visual
+
+### Identidade visual
+Usar a identidade da ArkheDigital com base em fundo escuro, destaques em azul/ciano e texto claro.
+
+### Paleta de cores
+**Fundo principal:** `#071A2F`  
+**Azul institucional:** `#0C4488`  
+**Azul principal:** `#0272D3`  
+**Ciano destaque:** `#32C5EF`  
+**Texto claro:** `#EAF7FC`
+
+### Tipografia
+Usar uma tipografia sans-serif moderna, limpa e com aparência premium.  
+A palavra “Arkhe” pode aparecer em branco e “Digital” em azul/ciano em alguns pontos estratégicos, respeitando a identidade.
+
+---
+
+## 4. Estrutura da Página
+
+A página deve conter as seguintes seções, nesta ordem:
+
+1. Hero Section
+2. Resumo institucional
+3. Seção de dores do cliente
+4. Seção principal sobre Agentes de IA
+5. Benefícios dos Agentes de IA
+6. Comparativo: Agente de IA x atendimento exclusivamente humano
+7. Tipos de Agentes de IA
+8. Outros serviços da ArkheDigital
+9. Como funciona
+10. Para quem é
+11. Diferenciais da ArkheDigital
+12. Sobre o fundador / CEO
+13. FAQ
+14. CTA final com WhatsApp
+15. Rodapé
+
+---
+
+## 5. Conteúdo por Seção
+
+## 5.1 Hero Section
+
+**Objetivo:**  
+Deixar claro o que a ArkheDigital faz e gerar clique no WhatsApp.
+
+**Título principal:**  
+Agentes de IA e soluções digitais para sua empresa vender mais, atender melhor e ganhar eficiência
+
+**Subtítulo:**  
+A ArkheDigital ajuda negócios a responder mais rápido, organizar o atendimento, automatizar processos e aproveitar melhor cada oportunidade com tecnologia aplicada ao que realmente gera resultado.
+
+**CTAs:**
+- Falar no WhatsApp
+- Quero entender como funciona
+
+**Elementos visuais esperados:**
+- fundo escuro elegante
+- wordmark/logo da ArkheDigital
+- elementos sutis que remetam a IA, tecnologia, fluxo, organização e performance
+- animações suaves de entrada
+
+---
+
+## 5.2 Resumo Institucional
+
+**Texto base:**  
+A ArkheDigital é uma empresa de soluções digitais que ajuda negócios a vender mais, atender melhor e ganhar eficiência com tecnologia. Trabalhamos com agentes de IA, automações, sites, landing pages, CRM e estruturas digitais pensadas para gerar resultado real. Nosso foco é simplificar processos, melhorar o atendimento e criar soluções sob medida para cada negócio.
+
+---
+
+## 5.3 Seção de dores do cliente
+
+**Título:**  
+Seu negócio pode estar perdendo oportunidades sem perceber
+
+**Objetivo:**  
+Conectar com problemas reais do público.
+
+**Dores a destacar:**
+- demora para responder clientes
+- perda de oportunidades no WhatsApp
+- atendimento limitado ao horário comercial
+- falta de organização comercial
+- excesso de tarefas manuais
+- dificuldade para acompanhar leads
+- processo comercial desestruturado
+- follow-up falho
+- perda de clientes por demora ou esquecimento
+
+**Sugestão visual:**  
+Cards com ícones e microanimações
+
+---
+
+## 5.4 Seção principal sobre Agentes de IA
+
+**Título:**  
+A solução começa com um Agente de IA
+
+**Texto:**  
+Os Agentes de IA da ArkheDigital são a principal porta de entrada para empresas que querem melhorar o atendimento, organizar o comercial e ganhar eficiência sem complicação. Eles ajudam seu negócio a responder mais rápido, atender com mais consistência e reduzir a perda de oportunidades.
+
+**Subtexto:**  
+Dependendo do seu caso, o agente pode ser o primeiro passo para uma estrutura maior de automação, CRM, funis, páginas, campanhas e outras melhorias estratégicas.
+
+---
+
+## 5.5 Benefícios dos Agentes de IA
+
+**Título:**  
+O que um Agente de IA pode fazer pelo seu negócio
+
+**Lista de benefícios:**
+- responder clientes com mais rapidez
+- atender 24 horas por dia
+- reduzir demora no primeiro contato
+- evitar perda de oportunidades
+- qualificar leads automaticamente
+- organizar melhor o comercial
+- reduzir tarefas repetitivas
+- manter consistência no atendimento
+- apoiar vendas e follow-up
+- gerar mais produtividade
+- melhorar a experiência do cliente
+- ampliar a capacidade de atendimento
+
+**Sugestão visual:**  
+Grid de benefícios com ícones e hover suave
+
+---
+
+## 5.6 Comparativo: Agente de IA x atendimento exclusivamente humano
+
+**Título:**  
+Agente de IA não substitui valor humano. Ele elimina gargalos.
+
+**Texto de apoio:**  
+O objetivo não é apagar o fator humano do negócio, e sim resolver tarefas repetitivas, reduzir demora no atendimento e aumentar a capacidade de resposta. O humano continua importante. O agente entra para dar escala, velocidade e organização.
+
+**Coluna 1 — Agente de IA**
+- atende 24/7
+- responde imediatamente
+- não se cansa
+- não esquece etapas
+- mantém padrão no atendimento
+- suporta volume alto
+- reduz tarefas manuais
+- organiza melhor o processo
+
+**Coluna 2 — Limitações naturais do atendimento humano**
+- depende de horário
+- pode demorar
+- sofre com acúmulo
+- pode esquecer follow-up
+- tem limite de escala
+- aumenta custo conforme cresce a operação
+
+**Frase final:**  
+O melhor cenário não é IA ou humano. É IA cuidando do operacional e humano focando no que realmente exige visão, relacionamento e decisão.
+
+---
+
+## 5.7 Tipos de Agentes de IA
+
+**Título:**  
+Tipos de Agentes de IA que a ArkheDigital pode implementar
+
+**Itens:**
+- Agente de Atendimento
+- Agente SDR
+- Agente de Vendas
+- Agente de Prospecção
+- Agente Consultor Financeiro
+
+Cada card deve ter:
+- nome
+- breve descrição
+- benefício principal
+
+---
+
+## 5.8 Outros serviços da ArkheDigital
+
+**Título:**  
+Muito além dos agentes: soluções digitais sob medida para o seu negócio
+
+**Serviços:**
+- Automações
+- CRM
+- Dashboards
+- Sites
+- Landing Pages
+- Estrutura e funis de automação
+- Automações em redes sociais
+- Campanhas sazonais
+- Vídeos com IA
+
+Cada serviço com:
+- nome
+- descrição curta
+- ícone
+
+---
+
+## 5.9 Como funciona
+
+**Título:**  
+Como funciona o processo
+
+**Etapas:**
+1. Você entra em contato
+2. Entendemos seu negócio e sua necessidade
+3. Analisamos gargalos e oportunidades
+4. Indicamos a solução mais adequada
+5. Estruturamos a implementação
+6. Ajustamos e colocamos para rodar
+7. Evoluímos conforme o negócio cresce
+
+**Sugestão visual:**  
+Linha do tempo ou etapas em cards
+
+---
+
+## 5.10 Para quem é
+
+**Título:**  
+Para quem a ArkheDigital faz sentido
+
+**Texto:**  
+A ArkheDigital atende principalmente negócios que precisam melhorar atendimento, comercial, organização e presença digital.
+
+**Exemplos:**
+- barbearias
+- salões
+- lojas
+- clínicas
+- profissionais liberais
+- empresas locais
+- negócios com leads em WhatsApp e Instagram
+
+---
+
+## 5.11 Diferenciais
+
+**Título:**  
+Por que escolher a ArkheDigital
+
+**Diferenciais:**
+- soluções pensadas para resultado real
+- atendimento consultivo
+- foco em negócios locais
+- tecnologia aplicada de forma prática
+- implementação sob medida
+- possibilidade de começar simples e evoluir
+- visão estratégica de atendimento, vendas e automação
+
+---
+
+## 5.12 Sobre o fundador / CEO
+
+**Título:**  
+Quem está por trás da ArkheDigital
+
+**Texto:**  
+Vinícius Fontes é o fundador da ArkheDigital e atua no desenvolvimento de soluções com Inteligência Artificial, automações, agentes, sites, landing pages e estruturas digitais voltadas para resultado. Seu foco é usar tecnologia de forma prática para ajudar empresas a vender mais, atender melhor e ganhar eficiência, sempre buscando soluções sob medida para cada cenário.
+
+**Complemento:**  
+Com olhar estratégico e execução prática, Vinícius une tecnologia, automação e comunicação para transformar processos em operações mais organizadas, rápidas e escaláveis.
+
+**Sugestão visual:**  
+Foto do fundador + bloco de autoridade
+
+---
+
+## 5.13 FAQ
+
+Inserir perguntas com respostas expansíveis (accordion).
+
+**Perguntas:**
+1. O que é a ArkheDigital?
+2. O que é um Agente de IA?
+3. Um Agente de IA substitui pessoas?
+4. Quais negócios podem se beneficiar?
+5. Vocês trabalham só com agentes de IA?
+6. Como sei qual solução faz sentido para mim?
+7. O atendimento é só para Cuiabá?
+8. O agente funciona no WhatsApp?
+9. Posso começar com algo simples?
+10. Como faço para falar com vocês?
+
+Usar as respostas já definidas anteriormente no conteúdo da landing.
+
+---
+
+## 5.14 CTA final
+
+**Título:**  
+Quer entender como isso pode funcionar no seu negócio?
+
+**Texto:**  
+Fale agora com o agente da ArkheDigital no WhatsApp e dê o primeiro passo para melhorar seu atendimento, organizar seu comercial e criar uma estrutura mais eficiente para crescer.
+
+**Botão:**  
+Falar no WhatsApp
+
+**Número visível:**  
+(65) 99241-3557
+
+---
+
+## 5.15 Rodapé
+
+**Itens:**
+- logo/wordmark ArkheDigital
+- texto curto institucional
+- botão/link de WhatsApp
+- Vinícius Fontes
+- Cuiabá - MT
+- copyright
+
+**Texto curto:**  
+ArkheDigital — Soluções digitais para vender mais, atender melhor e ganhar eficiência com tecnologia.
+
+---
+
+## 6. Requisitos de UX/UI
+
+- layout premium e limpo
+- forte contraste visual
+- ótima leitura
+- seções bem espaçadas
+- CTA visível ao longo da página
+- botão flutuante de WhatsApp
+- design responsivo
+- hierarquia visual clara
+- animações leves e elegantes
+- ícones consistentes
+- sem excesso de texto por bloco visual
+
+---
+
+## 7. Funcionalidades
+
+- navegação one page
+- rolagem suave
+- botões com link para WhatsApp
+- FAQ expansível
+- botão flutuante de WhatsApp
+- animações de entrada com Framer Motion
+- layout responsivo para mobile/tablet/desktop
+
+---
+
+## 8. SEO Básico
+
+**Title sugerido:**  
+ArkheDigital | Agentes de IA, automações e soluções digitais para negócios
+
+**Meta description sugerida:**  
+A ArkheDigital ajuda negócios a vender mais, atender melhor e ganhar eficiência com agentes de IA, automações, CRM, sites, landing pages e soluções digitais sob medida.
+
+---
+
+## 9. Resultado esperado
+
+A página final deve transmitir:
+- autoridade
+- clareza
+- inovação
+- confiança
+- sofisticação
+- praticidade
+- foco em resultado
+
+E deve levar o visitante a pensar:
+“essa empresa consegue melhorar meu atendimento e meu comercial com tecnologia de forma prática”.
+
+---
+
+## 10. Observações finais
+
+- O foco principal da comunicação deve estar nos Agentes de IA
+- Os demais serviços entram como expansão e profundidade de solução
+- A página deve parecer profissional, atual e confiável
+- O visual deve evitar aparência genérica de template
+- A experiência deve favorecer clique no WhatsApp

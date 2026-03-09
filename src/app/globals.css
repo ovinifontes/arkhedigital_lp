@@ -1,26 +1,55 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #071A2F;
+  --foreground: #EAF7FC;
+  --blue-institutional: #0C4488;
+  --blue-primary: #0272D3;
+  --cyan-accent: #32C5EF;
+  --text-muted: #9CA3AF;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --color-blue-institutional: var(--blue-institutional);
+  --color-blue-primary: var(--blue-primary);
+  --color-cyan-accent: var(--cyan-accent);
+  --font-sans: var(--font-satoshi);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-satoshi), system-ui, sans-serif;
+}
+
+/* Gradientes sutis para fundos */
+.gradient-mesh {
+  background: 
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(2, 114, 211, 0.15), transparent),
+    radial-gradient(ellipse 60% 40% at 100% 0%, rgba(50, 197, 239, 0.08), transparent),
+    radial-gradient(ellipse 60% 40% at 0% 100%, rgba(2, 114, 211, 0.08), transparent);
+}
+
+/* Efeito de grid tecnológico */
+.grid-pattern {
+  background-image: 
+    linear-gradient(rgba(50, 197, 239, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(50, 197, 239, 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+}
+
+/* Perspectiva 3D para cards */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-3d {
+  transform-style: preserve-3d;
 }
