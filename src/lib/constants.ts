@@ -1,6 +1,6 @@
 export const WHATSAPP_LINK =
-  "https://wa.me/5565992413557?text=Oi%2C+quero+entender+como+a+ArkheDigital+pode+me+ajudar.";
-export const WHATSAPP_NUMBER = "(65) 99241-3557";
+  "https://wa.me/5565992249488?text=Oi%2C+quero+entender+como+a+ArkheDigital+pode+me+ajudar.";
+export const WHATSAPP_NUMBER = "(65) 9 9224-9488";
 
 export const PAINS = [
   {
